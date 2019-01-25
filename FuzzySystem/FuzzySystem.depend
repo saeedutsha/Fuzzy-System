@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1527183773 source:c:\codeblocks\fuzzysystem\main.cpp
+	<iostream>
+
